@@ -54,4 +54,4 @@ xlabel!("Time (ms)")
 ylabel!("Number of Molecules")
 title!("A → B, k = $k")
  
-savefig("A_to_B.png")
+savefig("A_to_B.svg")
